@@ -1,3 +1,3 @@
-# Project 4 — Blue Team
+# Project 3 — Red Team
 
-This folder contains the defensive controls, AI guardrails, validation results and remediation measures developed for Project 4.
+Project 3 evaluates AI identity and application security through controlled red-team testing, including prompt injection, identity spoofing, credential-related attacks, and other adversarial scenarios.
